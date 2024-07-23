@@ -1,9 +1,7 @@
 # About
----
 This git repository is a exercise which is a part of **The Odin Project** tutorial.
 
 ## Objective
----
 The purpose of this repository is to demonstrate the skills learned before exercise.
 
 ## Skills to demonstrate
